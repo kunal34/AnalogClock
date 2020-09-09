@@ -42,42 +42,60 @@ img {
   height: 100%;
   position: absolute;
   text-align: center;
+  
+ 
   font-size: 30px;
   transform: rotate(calc(var(--r) * 1deg));
 }
 
 .N1 {
   --r: 30;
+  transform: translate(24%,7%);
+  
 }
 .N2 {
   --r: 60;
+  transform: translate(41%,25%);
 }
 .N3 {
   --r: 90;
+  transform: translate(47%,47%);
 }
 .N4 {
   --r: 120;
+  transform: translate(40%,70%);
 }
 .N5 {
   --r: 150;
+  transform: translate(22%,88%);
+
 }
 .N6 {
   --r: 180;
+  transform: translate(0,93%);
 }
 .N7 {
   --r: 210;
+  transform: translate(-25%,87%);
 }
 .N8 {
   --r: 240;
+  transform: translate(-42%,68%);
+
 }
 .N9 {
+  
+  transform: translate(-47%,47%);
   --r: 270;
 }
 .N10 {
   --r: 300;
+  transform: translate(-41%,25%);
 }
 .N11 {
   --r: 330;
+  transform: translate(-24%,7%);
+
 }
 .N12 {
   --r: 360;
