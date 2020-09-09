@@ -2,6 +2,7 @@ body {
     background-color: rgb(121, 199, 250);
   
 }
+
 .clock {
   width: 450px;
   height: 450px;
@@ -95,18 +96,21 @@ img {
 
 .H {
   width: 12px;
-  height: 30%;
-  background-color: black;
+  height: 28%;
+  background-color:black;
+  border: 2px solid white;
 }
 
 .M {
   width: 8px;
   height: 38%;
   background-color: black;
+  border: 2px solid white;
 }
 
 .S {
   width: 2px;
   height: 45%;
   background-color: black;
+  border: 2px solid white;
 }
